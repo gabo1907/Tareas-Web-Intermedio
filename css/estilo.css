@@ -1,0 +1,131 @@
+body{
+	background-image: url("../img/fondoGabo.jpg");
+}
+.uno{
+	height: 100px;
+	width: 20px;
+	background: orange;
+	border-radius: 20px;
+}
+.dos{
+	height: 20px;
+	width: 50px;
+	background: orange;
+	transform: translate(15px,-100px);
+	border-radius: 20px;
+}
+.tres{
+	height: 20px;
+	width: 50px;
+	background: orange;
+	transform: translate(15px,-40px);
+	border-radius: 20px;
+}
+.cuatro{
+	height: 40px;
+	width: 20px;
+	background: orange;
+	transform: translate(50px,-90px);
+	border-radius: 20px;
+}
+.letraA1{
+	height: 100px;
+	width: 20px;
+	background: blue;
+	transform: translate(120px,-180px) rotate(30deg);
+	border-radius: 20px;
+}
+.letraA2{
+	height: 100px;
+	width: 20px;
+	background: blue;
+	transform: translate(165px,-280px) rotate(150deg);
+	border-radius: 20px; 
+}
+.letraA3{
+	height: 20px;
+	width: 50px;
+	background: blue;
+	transform: translate(130px,-330px);
+}
+.letraB1{
+	height: 100px;
+	width: 20px;
+	background: green;
+	transform: translate(225px, -400px);
+	border-radius: 20px;
+}
+
+.letraB2{
+	height: 20px;
+	width: 50px;
+	background: green;
+	transform: translate(235px, -500px);
+	border-radius: 20px;
+}
+
+.letraB3{
+	height: 20px;
+	width: 50px;
+	background: green;
+	transform: translate(235px, -435px);
+	border-radius: 20px;
+}
+
+.letraB4{
+	height: 20px;
+	width: 50px;
+	background: green;
+	transform: translate(235px, -495px);
+	border-radius: 20px;
+}
+
+.letraB5{
+	height: 100px;
+	width: 20px;
+	background: green;
+	transform: translate(275px, -560px);
+	border-radius: 20px;
+}
+.letraO1{
+	height: 100px;
+	width: 20px;
+	background: yellow;
+	transform: translate(315px, -660px);
+	border-radius: 20px;	
+}
+.letraO2{
+	height: 20px;
+	width: 80px;
+	background: yellow;
+	transform: translate(315px, -760px);
+	border-radius: 20px;		
+}
+.letraO3{
+	height: 20px;
+	width: 80px;
+	background: yellow;
+	transform: translate(315px, -700px);
+	border-radius: 20px;		
+}
+.letraO4{
+	height: 100px;
+	width: 20px;
+	background: yellow;
+	transform: translate(390px, -800px);
+	border-radius: 20px;	
+}
+
+.parteUno{
+	transform: translate(30%,150%);
+}
+.parteDos{
+	transform: translate(30%,123%);
+}
+.parteTres{
+	transform: translate(30%,103%);
+}
+.parteCuatro{
+	transform: translate(30%,110%);
+}
+
